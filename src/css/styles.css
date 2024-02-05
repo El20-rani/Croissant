@@ -1,0 +1,23 @@
+body {
+  width: 100%;
+  text-align: center;
+  background-color: rgb(243, 243, 227);
+  margin: 20px;
+  padding: 20px;
+}
+h2 {
+  color: blueviolet;
+  background-color: rgb(218, 232, 245);
+  font-size: 35px;
+}
+
+p {
+  color: rgb(76, 2, 146);
+  background-color: blanchedalmond;
+}
+
+footer {
+  display: block;
+  color: rgb(144, 233, 55);
+  font-size: 20px;
+}
